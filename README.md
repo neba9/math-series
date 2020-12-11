@@ -22,7 +22,7 @@ The name of sum_series Function with one required parameter and two optinoal par
 Clone this repository to your local machine.
 
 ```
-$ git clone : https://github.com/neba9/math-series
+$ git clone : https://github.com/neba9/math-series.git
 ```
 
 ### To run the program from VS Code:
